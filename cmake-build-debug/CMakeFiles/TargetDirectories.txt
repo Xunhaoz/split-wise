@@ -1,0 +1,3 @@
+C:/Users/leo20/Desktop/splitWise/cmake-build-debug/CMakeFiles/splitWise.dir
+C:/Users/leo20/Desktop/splitWise/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/leo20/Desktop/splitWise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
